@@ -37,3 +37,16 @@ Python, pandas, SQLite, matplotlib, Google Colab
 
 ## Files
 - `I-Know-A-Spot.ipynb`: the full analysis
+
+## Next steps
+- Replace the hand-entered coordinates with a geocoding lookup, so any city's itinerary can be analyzed
+- Run the analysis on itineraries from other cities to see whether the savings hold up
+- Add a map comparing the original route with the shortest route
+- Use real walking or transit times instead of straight-line distance
+- Build a working multi-city demo of the feed and place page using openly licensed photos and place data
+- Test the prototype with a few travelers and record what they say
+
+## What a full product would need
+- Photos and reviews from real users, which means a community, moderation and clear photo ownership rules
+- Reliable data for hours, ratings and crowds by hour, which is mostly held by large map providers and is not free
+- Enough content in each city for the feed to be useful
